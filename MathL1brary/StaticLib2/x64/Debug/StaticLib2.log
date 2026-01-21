@@ -1,3 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (StaticLib2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  MathLibrary.cpp
-C:\Users\AVGeorgiev23\source\repos\MathL1brary\StaticLib2\MathLibrary.cpp(12,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
